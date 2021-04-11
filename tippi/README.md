@@ -1,12 +1,5 @@
-# Chainlink Truffle Box
+# Tippi + Chainlink Truffle Box
 
-<br/>
-<p align="center">
-<a href="https://chain.link" target="_blank">
-<img src="https://raw.githubusercontent.com/smartcontractkit/box/master/box-img-lg.png" width="225" alt="Chainlink Truffle logo">
-</a>
-</p>
-<br/>
 
 ## Requirements
 
@@ -136,7 +129,4 @@ Node v10.16.3
 
 ## TODO
 
-- Add tests for ChainlinkVRF
-- Add tests for Chainlink Price Feeds
-- Refactor tests to use this instead of defining contracts with let
-- Use the Chainlink-published mocks for [MockV3Aggregator](https://github.com/smartcontractkit/chainlink/blob/develop/evm-contracts/src/v0.6/tests/MockV3Aggregator.sol) and [VRFCoordinatorMock](https://github.com/smartcontractkit/chainlink/blob/develop/evm-contracts/src/v0.6/tests/VRFCoordinatorMock.sol)
+-make this fun and better
