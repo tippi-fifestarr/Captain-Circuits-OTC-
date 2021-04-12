@@ -1,5 +1,5 @@
 # Introduction
---Big shoutouts to Patrick for keeping it real and Gregory for the tutorials
+--Big shoutouts to Patrick (CL!) for keeping it real and Gregory (DAppU) for the tutorials
 --This was written "from scratch" in one day, using all the knowledge, skills, and stress from the hackathon
 --I spent days in the docs, much love to the docs : @Chainlink, @OpenZeppelin, @Solidity
 --Cryptozombies Chapter 2 almost finished!
